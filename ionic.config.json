@@ -1,0 +1,7 @@
+{
+  "name": "My-Portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
